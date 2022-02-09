@@ -2,4 +2,9 @@
 
 This is still a work in progress. Give it some time, I'll update this whenever I have time :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video autoplay loop width="100%">
+
+    <source src="https://shattereddisk.github.io/rickroll/rickroll.mp4"
+            type="video/mp4">
+
+</video>
